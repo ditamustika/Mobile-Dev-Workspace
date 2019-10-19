@@ -1,0 +1,5 @@
+<script>
+	var data={"nama":"dita eka", "alamat":"jl hm said", "prodi":"ilkomp", "semester":3};
+	console.log("nama :",data.nama);
+
+</script>
